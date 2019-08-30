@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Skript_Parser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Skript_Parser_jar</output-path>
+    <root id="archive" name="Skript_Parser.jar">
+      <element id="module-output" name="Skript_Parser" />
+    </root>
+  </artifact>
+</component>
